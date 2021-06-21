@@ -1,11 +1,11 @@
 {
-  "name": "botzin",
+  "name": "annie",
   "version": "1.0.0",
   "main": "./src/bot.js",
   "scripts": {
     "start": "node ."
   },
-  "author": "Only_bielzin",
+  "author": "Bruxinhoo",
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.0",
